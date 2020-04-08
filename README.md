@@ -1,15 +1,12 @@
 NLP - Document classification
-- For upcoming interview round scheduled before less than 48 hrs while working full time  
-- NLP task in more than an year or so
-
 
 **Thought process**
 
 1. Find a dataset any platform for text/document classification that is
-  - Considerably small - less than few hundreds mb
-  - Interesting to work on
+  - Considerably small - less than few hundred mb
   - Not trivial datasets(likes of Spam vs Ham)
   - Not well documented
+  - Interesting to work on
 
 2. Do the work ;)
 
